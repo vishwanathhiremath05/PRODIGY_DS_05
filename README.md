@@ -66,3 +66,7 @@ The script will:
 * Generate insightful visualizations
 * Display them interactively using `matplotlib`
 
+
+📧 **Author**: Vishwanath Hiremath
+🔗 **GitHub**: [@vishwanathhiremath05](https://github.com/vishwanathhiremath05)
+
